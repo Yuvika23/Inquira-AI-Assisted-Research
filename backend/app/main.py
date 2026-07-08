@@ -56,6 +56,7 @@ origins = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
     "https://inquira-ai-assisted-research.vercel.app",
+    "https://inquira-ai-assisted-research-jnd1a3uf9-yuvika-gandhis-projects.vercel.app",
 ]
 
 app.add_middleware(
